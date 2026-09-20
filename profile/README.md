@@ -1,4 +1,8 @@
-# Loop Studio
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-on-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-on-light.svg">
+  <img alt="Loop Studio" src="assets/logo-on-light.svg" width="280">
+</picture>
 
 Web design & development, photo/video production, and social media management.
 
