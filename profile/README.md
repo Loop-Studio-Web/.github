@@ -6,9 +6,9 @@
 
 Web design & development, photo/video production, and social media management.
 
-We build fast, static websites (Astro, deployed on Cloudflare) with a strong
-focus on design and performance, alongside content production and social
-media management for small and medium businesses.
+We build fast, high-performance websites and web apps using whatever stack
+best fits the project, alongside content production and social media
+management for small and medium businesses.
 
 - 🌐 Website: [theloopstudio.org](https://theloopstudio.org)
 - 📧 Contact: [info@theloopstudio.org](mailto:info@theloopstudio.org)
@@ -18,7 +18,7 @@ media management for small and medium businesses.
 ## What we do
 
 - **Web** — custom websites and web apps, from single-page sites to
-  full e-commerce, built with Astro and modern CSS.
+  full e-commerce, picking the right languages and tools for each project.
 - **Photo & Video** — product, event, and brand content production.
 - **Social** — content planning and management for Instagram and Facebook.
 
